@@ -1,63 +1,57 @@
-# DIogoBorges-22
- <h1 align="center">Olá, eu sou o Diogo]! 👋</h1>
+<h1 align="center">Olá, eu sou o Diogo! 👋</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7D12F&background=00000000&center=true&vCenter=true&width=435&lines=Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%F0%9F%8E%93;Desenvolvedor+Python+%26+Dados+%F0%9F%90%8D;Entusiasta+de+Linux+(CachyOS)+%F0%9F%90%A7;Criador+da+Neexxus+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
+  <em>"Transformando dados em decisões e código em soluções que fazem a diferença."</em>
 </p>
 
 <p align="center">
-  <i>"Transformando dados em decisões e ideias em código."</i>
+  <a href="https://github.com/DiogoBorges-22">
+    <img src="https://img.shields.io/github/followers/DiogoBorges-22?label=Followers&style=social" alt="GitHub Followers">
+  </a>
+  <a href="https://github.com/DiogoBorges-22?tab=repositories">
+    <img src="https://img.shields.io/github/stars/DiogoBorges-22?label=Repositórios&style=social" alt="GitHub Repositories">
+  </a>
 </p>
 
 ---
 
-### 👨‍💻 Sobre Mim
+## 🧑‍💻 Sobre Mim
 
-- 🎓 Estudante de **Ciência da Computação**.
-- 💼 Atualmente focado em **Análise de Dados**, **Automação** e **Desenvolvimento Web**.
-- 🐧 Usuário avançado de **Linux** (CachyOS/Arch).
-- 🔭 Trabalhando atualmente em projetos da marca **Neexxus** e sistemas de **Saúde/Economia**.
-- 🎲 Nas horas vagas: Desenvolvo sistemas para **RPG de Mesa** e jogo **FC 25**.
-
----
-
-### 🚀 Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode,linux,bash,mysql,wordpress" />
-</div>
+- 🔍 **Áreas de atuação:** Análise de Dados, Automação de Processos, Desenvolvimento Web e Linux (entusiasta e usuário avançado de CachyOS/Arch Linux).
+- 🚀 **Projetos atuais:** Desenvolvimento de automações com **n8n**, sistemas voltados à organização para prestadores de serviços e criação de aplicativos.
+- 📚 **Perfil:** Estudante dedicado e profissional em constante evolução, com foco em transformar ideias em soluções práticas e escaláveis.
+- 🎮 **Hobbies:** Leitura, videogames, musculação e basquete — equilíbrio entre mente e corpo.
 
 ---
 
-### 📊 Estatísticas do GitHub
+## 🛠️ Tech Stack
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiogoBorges-22&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoBorges-22&layout=compact&theme=radical"/>
-</div>
-
----
-
-### 🛠️ Projetos em Destaque
-
-| Projeto | Descrição | Stack |
-| :--- | :--- | :--- |
-| **Neexxus Dashboard** | Painel de controle para gestão de dados e métricas. | Python (Streamlit) |
-| **RPG Physics System** | Sistema de mecânicas de física aplicado a RPG de horror cósmico. | Python / Lógica |
-| **Web Saúde** | Plataforma web focada em planos de emagrecimento (Mounjaro). | HTML / WordPress |
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+</p>
 
 ---
 
-<div align="center">
- 
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/authwall?trk=gf&trkInfo=AQEWmrcAIFq00wAAAZvEQvDAv97AXipepNAHQhdolyWBnhpp0jLbNA6W_rP0IF5cpTtCsQ0eLdO6I2-mQaFUwOH_0Q9MDRYR6CwWgiLFZ-l0FcuEA07PJqdaIUFObfIjhxTSxyI=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdiogo-borges-570134364%3Futm_source%3Dshare%26utm_campaign%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dandroid_app" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
-  <a href="mailto:borgesdigo960@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
+## 📊 Estatísticas do GitHub
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DiogoBorges-22&show_icons=true&theme=dark" alt="GitHub Stats" height="165">
+    
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoBorges-22&layout=compact&theme=dark" alt="Top Languages" height="165">
+</p>
+
+---
+
+<p align="center">
+  ⚡ <em>Estou sempre em busca de aprender algo novo e transformar desafios em oportunidades.</em>
+</p>
